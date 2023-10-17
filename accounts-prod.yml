@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to accounts api prod support"
   contactDetails:
     name: "Swathi Prod"
-    email: "swathiprod@example.com"
+    email: "{cipher}f565336972480189e82458618be526ce2e5d70bd50da72cbbc2f3fee2127a719"
   onCallSupport:
     - 323
     - 324
