@@ -1,7 +1,7 @@
 build:
   info: v3
 accounts:
-  message: "Welcome to accounts api prod support"
+  message: "Welcome to accounts api production support"
   contactDetails:
     name: "Swathi Prod"
     email: "{cipher}f565336972480189e82458618be526ce2e5d70bd50da72cbbc2f3fee2127a719"
