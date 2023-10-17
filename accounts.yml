@@ -2,7 +2,7 @@ build:
   info: v1
 
 accounts:
-  message: "Welcome to accounts api support"
+  message: "Git - Welcome to accounts api support"
   contactDetails:
     name: "Swathi"
     email: "swathi@example.com"
