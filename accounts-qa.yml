@@ -1,0 +1,11 @@
+build:
+  info: v2
+
+accounts:
+  message: "Welcome to accounts api qa support"
+  contactDetails:
+    name: "Swathi Qa"
+    email: "swathiqa@example.com"
+  onCallSupport:
+    - 223
+    - 224
